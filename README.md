@@ -37,8 +37,6 @@
 
 ![screenshot](https://raw.githubusercontent.com/lakotelman/dev-challenge-interior-consultant-master/main/Screenshot.png)
 
-Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
-
 This was made using primarily CSS and HTML with a pint of JS to replicate the figma mockup provided by devChallenge.io. It was a great chance to get serious with understanding relative and absolute positioning.
 
 ### Built With
